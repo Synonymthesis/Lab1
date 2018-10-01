@@ -1,0 +1,6 @@
+1. As a user, I want a visual representation of my progress, so I can see how far I’ve 
+advanced in the game.
+2. As a student player, I want advanced levels of words, so that I can practice my 
+vocabulary for the SAT’s.
+3. As a competitive player, I want a point system with a leaderboard, so that I can 
+beat the highest score.
