@@ -1,0 +1,4 @@
+1. As a user, I want to be able to have hints in the game, so I can easily move on when I get stuck in the game. 
+2. As a user, I want to be able to play the game in a non competitive mode, so I can relax and play in a calm manner. 
+3. As a disabled user, I want to be able to hear the prompts, so I can have as much fun playing the game as my peers.
+

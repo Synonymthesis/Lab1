@@ -1,0 +1,4 @@
+1. The system shall provide a visual representation of all levels available in the game and show graphical distinctions between completed and incomplete levels.
+2. The system shall provide a settings customisation button in the game. 
+3. The system shall provide an accessibility feature in the game where words can be read aloud. 
+
