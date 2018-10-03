@@ -1,0 +1,3 @@
+The system shall provide a leaderboard that displays all user scores.
+The system shall provide multiple levels with progressive difficulty as shown by the complexity of the word prompt.
+The system shall provide a tutorial with one automated example of a round.

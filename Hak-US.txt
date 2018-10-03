@@ -1,0 +1,3 @@
+As a user, I want the game rounds to have a 20 second time limit, so I can feel challenged.
+As a frequent player, I want 5 hours of gameplay, so I can enjoy playing the game as long as I want.
+As a competitive player, I want to have a visual distinction between complete and incomplete levels, so I don’t accidentally restart the same level.
