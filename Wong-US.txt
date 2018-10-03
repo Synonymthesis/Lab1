@@ -1,0 +1,3 @@
+As a student, I’d like a fun way to learn new synonyms, so that I can expand my knowledge.
+As a teacher, I’d like a fun way to teach my students how to type, as it is important for them to learn.
+ As a developer, I’d like to learn new synonyms, as I don’t write much.
