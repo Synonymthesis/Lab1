@@ -1,0 +1,3 @@
+The system shall display numerical points for the score during the game.
+The system shall reward players with bonus points depending on how fast they answered correctly. 
+The system shall provide a ranking system based on a player’s points. 
